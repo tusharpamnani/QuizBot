@@ -1,7 +1,3 @@
-Here’s the updated `README.md` to reflect your points:
-
----
-
 # QuizBot
 
 QuizBot is a Telegram bot that allows users to participate in quizzes directly from Telegram. Built using the `python-telegram-bot` library, it supports creating multiple-choice questions and evaluating user responses in real-time.
